@@ -1,0 +1,16 @@
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\bin\Debug\V1.1.exe.config
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\bin\Debug\V1.1.exe
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\bin\Debug\V1.1.pdb
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\obj\Debug\V1._1.Form1.resources
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\obj\Debug\V1._1.Properties.Resources.resources
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\obj\Debug\V1.1.csproj.GenerateResource.Cache
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\obj\Debug\V1.1.exe
+E:\UCJ\2025\SCM Exams\03\V1.1\V1.1\obj\Debug\V1.1.pdb
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\bin\Debug\V1.1.exe.config
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1.1.exe
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1.1.pdb
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\bin\Debug\V1.1.exe
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\bin\Debug\V1.1.pdb
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1._1.Form1.resources
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1._1.Properties.Resources.resources
+E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1.1.csproj.GenerateResource.Cache
