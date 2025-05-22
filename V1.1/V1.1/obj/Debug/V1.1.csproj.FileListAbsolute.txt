@@ -14,3 +14,6 @@ E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\bin\Debug\V1.1.pdb
 E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1._1.Form1.resources
 E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1._1.Properties.Resources.resources
 E:\UCJ\2025\Exams\SCM\03\V1.1\V1.1\obj\Debug\V1.1.csproj.GenerateResource.Cache
+C:\Users\haisan\OneDrive\Desktop\Practicle_exam\CA\V1.1\V1.1\bin\Debug\V1.1.exe.config
+C:\Users\haisan\OneDrive\Desktop\Practicle_exam\CA\V1.1\V1.1\obj\Debug\V1.1.exe
+C:\Users\haisan\OneDrive\Desktop\Practicle_exam\CA\V1.1\V1.1\obj\Debug\V1.1.pdb
