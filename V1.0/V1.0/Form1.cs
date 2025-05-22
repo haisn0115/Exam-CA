@@ -17,19 +17,29 @@ namespace V1._0
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnAddTask_Click(object sender, EventArgs e)
         {
-            string taskName = txtTask.Text;
-            string dueDate = txtDueDate.Text;
+            string taskName = txtTask.Text.Trim();
+            string dueDateText = txtDueDate.Text.Trim();
 
-            // No validation in v1.0
-            string taskEntry = taskName + " - Due: " + dueDate;
-            listBoxTasks.Items.Add(taskEntry);
+            if (string.IsNullOrWhiteSpace(taskName) || string.IsNullOrWhiteSpace(dueDateText))
+            {
+                MessageBox.Show("Task name and due date cannot be empty.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
-            // Clear inputs
+            DateTime dueDate;
+            if (!DateTime.TryParse(dueDateText, out dueDate))
+            {
+                MessageBox.Show("Please enter a valid date in the format MM/DD/YYYY.", "Invalid Date", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            listBoxTasks.Items.Add(taskName + " - Due: " + dueDate.ToShortDateString());
             txtTask.Clear();
             txtDueDate.Clear();
         }
-
     }
 }
+    
+
